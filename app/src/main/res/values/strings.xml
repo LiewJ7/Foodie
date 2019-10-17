@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Foodie</string>
+    <string name="dont_click_me">Dun Click Me!</string>
+    <string name="warning">Warning!!! Button Clicked</string>
+    <string name="hello">Hello World</string>
+    <string name="Reset">Reset</string>
+</resources>
